@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" href="css/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+        <link rel="icon" type="image/svg" href="img/wifi.svg">
+        <title>Wifi Passwords</title>
+    </head>   
+
+    <body>
+          <div class="container-fluid">
+
+            {table}
+	  
+	  <div class="btn-download">
+             <a href="Wifi_Passwords.xlsx" download><button><i class="fas fa-download"></i> Download As Excel File</button></a>
+	  </div>
+        </div>
+
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>

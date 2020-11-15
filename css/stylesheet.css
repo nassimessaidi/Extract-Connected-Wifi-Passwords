@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: currentColor;
+}
+
+.table thead th {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    /*background-color: cornflowerblue;
+    color: #fff;*/
+    word-spacing: 0.2rem;
+    letter-spacing: 0.4px;
+}
+
+.table-dark td:nth-child(1), .table-dark th:nth-child(1), .table-dark thead th:nth-child(1){
+  text-align: center;
+}
+button{
+    padding: 15px 30px;
+    width: 20
+    cursor: pointer;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    outline: none;
+    transition: all 0.3s ease;
+    background-color: #454d55;
+    border: none;
+    color: #fff;
+    font-weight: 900;
+    font-size: 1.1rem;
+    margin: 20px 0px;
+    text-align: center;
+}
+button:hover{
+    background-color: #343a40;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-download {
+    text-align: center;
+}
+.btn-download h1{
+  color: #fff;
+  font-weight: 600;
+  padding: 15px 0px;
+}
+
+button:focus, button:focus{
+    outline: none;
+}
+button:focus {
+    outline: none !important;
+}
