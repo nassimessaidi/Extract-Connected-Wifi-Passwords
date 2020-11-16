@@ -24,3 +24,10 @@ Or just by requirements.txt file:
 pip install -r requirements.txt
 ```
 
+
+
+## Python version I used
+
+**`Python 3.8.5`**
+
+
