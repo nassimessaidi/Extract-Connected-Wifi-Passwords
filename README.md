@@ -1,4 +1,4 @@
-# Extract-Connected-Wifi-s-Password
+# Extract-Connected-Wifi-Passwords
 
 ## Description
 
