@@ -15,3 +15,12 @@ You need to download `Pandas` you can do that by opening your terminal type:
 ```bash
 pip install pandas
 ```
+
+
+Or just by requirements.txt file:
+
+
+```bash
+pip install -r requirements.txt
+```
+
