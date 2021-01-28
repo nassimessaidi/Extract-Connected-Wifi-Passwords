@@ -14,6 +14,7 @@ You need to download `Pandas` you can do that by opening your terminal type:
 
 ```bash
 pip install pandas
+pip install openpyxl
 ```
 
 
